@@ -1,0 +1,33 @@
+# --- BỘ KHUNG TÍNH TOÁN & DEEP LEARNING ---
+torch
+torchvision
+torchaudio
+tensorflow
+tensorboard
+
+# --- XỬ LÝ DỮ LIỆU & MACHINE LEARNING TRUYỀN THỐNG ---
+numpy
+pandas
+scikit-learn
+scipy
+
+# --- TRỰC QUAN HÓA DỮ LIỆU (VẼ ĐỒ THỊ) ---
+matplotlib
+seaborn
+
+# --- XỬ LÝ ẢNH & COMPUTER VISION (CV) ---
+opencv-python-headless
+pillow
+scikit-image
+
+# --- XỬ LÝ NGÔN NGỮ TỰ NHIÊN (NLP) ---
+transformers
+datasets
+accelerate
+nltk
+spacy
+
+# --- CÔNG CỤ BỔ TRỢ & TIỆN ÍCH ---
+tqdm
+gdown
+h5py
