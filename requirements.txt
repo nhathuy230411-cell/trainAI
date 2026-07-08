@@ -1,6 +1,6 @@
 # --- BỘ KHUNG TÍNH TOÁN & DEEP LEARNING ---
 torch
-torchvision
+torchvision>=0.15.0
 torchaudio
 tensorflow
 tensorboard
